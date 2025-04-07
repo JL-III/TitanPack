@@ -5,7 +5,7 @@
 #### This process is only needed if you do not want to use the `/resourcepack` command in game every time you log in. Using this method means you have to update the resource pack every time a new version is released.
 
 1. Click on the releases on the right hand panel.  
-2. Click on the latest version. This should start a download. It will look something like this `TheatriaPackvX.X.X-X.X.zip`  
+2. Click on the latest version. The file you're looking for will look something like this `TheatriaPackvX.X.X-X.X.zip`. This should start a download.  
 3. Open your `.minecraft` directory on your computer. This is where your mods are located.
 4. Add this zip file to your `/resources` directory.  
 5. Launch Minecraft. When you are in game click on `options` and then click on `Resource Packs...`
